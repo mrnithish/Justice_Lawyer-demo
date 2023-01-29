@@ -1,7 +1,5 @@
 # Justice_Lawyer-demo
-This is a project for lawyer appointment.
-
-This is a demo website for Lawyer Appointment.
+This is a project demo webites for lawyer appointment.
 
 Stack-Html , CSS, JAVASCRIPT,BOOTSTRAP
 

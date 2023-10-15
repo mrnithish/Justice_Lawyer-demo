@@ -26,7 +26,7 @@ This project is a Lawyer Appointment Website that allows clients to schedule app
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/lawyer-appointment-website.git
+git clone https://github.com/mrnithish/Justice_Lawyer-demo.git
 ```
 
 2. Open the project directory:
@@ -63,6 +63,6 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 

@@ -32,7 +32,7 @@ git clone https://github.com/mrnithish/Justice_Lawyer-demo.git
 2. Open the project directory:
 
 ```bash
-cd lawyer-appointment-website
+cd Justice_Lawyer-demo
 ```
 
 3. Run the website by opening the `index.html` file in a web browser.

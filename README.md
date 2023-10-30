@@ -26,7 +26,7 @@ This project is a Lawyer Appointment Website that allows clients to schedule app
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/lawyer-appointment-website.git
+git clone https://github.com/mrnithish/Justice_Lawyer-demo.git
 ```
 
 2. Open the project directory:

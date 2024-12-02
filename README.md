@@ -46,7 +46,7 @@ cd Justice_Lawyer-demo
 
 You can customize this project in several ways:
 
-- Add more features like secure payment processing.
+- Add more features like secure payment processing using razorpay or other methods.
 - Enhance the user interface with additional CSS and Bootstrap modifications.
 - Implement user authentication and authorization for more security.
 

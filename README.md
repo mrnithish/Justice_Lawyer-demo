@@ -20,6 +20,7 @@ This project is a Lawyer Appointment Website that allows clients to schedule app
 - CSS
 - JavaScript
 - Bootstrap
+  
 
 ## Setup
 

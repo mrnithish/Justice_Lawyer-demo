@@ -2,7 +2,6 @@
 # Lawyer Appointment Website. - Justice League
 
 ## Overview
-
 This project is a Lawyer Appointment Website that allows clients to schedule appointments with legal professionals. It's designed to provide a user-friendly and efficient platform for connecting clients with lawyers.
 
 ## Features

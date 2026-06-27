@@ -3,6 +3,7 @@
 ## Overview
 This project is a Lawyer Appointment Website that allows clients to schedule appointments with legal professionals. It's designed to provide a user-friendly and efficient platform for connecting clients with lawyers.
 
+
 ## Features
 - **User Registration**: Clients can create accounts and log in to the platform.
 - **Search Lawyers**: Clients can search for lawyers based on practice areas, location, and other filters.
